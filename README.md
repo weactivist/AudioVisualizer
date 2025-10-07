@@ -14,7 +14,7 @@ A lightweight Windows audio visualizer that reacts to system sound by displaying
 
 1. Clone this repository:
 ```
-git clone https://github.com/username/AudioVisualizer.git
+git clone https://github.com/weactivist/AudioVisualizer.git
 ```
 2. Open the project in Visual Studio or VS Code.
 3. Build and run:
