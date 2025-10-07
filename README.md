@@ -16,17 +16,28 @@ A lightweight Windows audio visualizer that reacts to system sound by displaying
 ```
 git clone https://github.com/weactivist/AudioVisualizer.git
 ```
-2. Open the project in Visual Studio or VS Code.
-3. Build and run:
+2. Build and run:
 ```
 dotnet run
 ```
-4. For a standalone executable, publish for Windows:
+3. For a standalone executable, publish for Windows:
 ```
 dotnet publish -c Release -r win-x64 --self-contained true
 ```
 
 The output will be in bin\Release\net8.0\win-x64\publish\.
+
+## Development
+
+1. Clone this repository:
+```
+git clone https://github.com/weactivist/AudioVisualizer.git
+```
+2. Open the project in Visual Studio or VS Code.
+3. Build and run:
+```
+dotnet run
+```
 
 ## Usage
 
